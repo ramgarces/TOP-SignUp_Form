@@ -24,11 +24,11 @@ html {
 
 .page-left {
     height: 100vh;
-    flex: 2;
+    flex: 1;
 }
 
 .page-right {
     background-color: blue;
     height: 100vh;
-    flex: 4;
+    flex: 2;
 }
