@@ -28,7 +28,7 @@ html {
 }
 
 .page-right {
-    background-color: blue;
+    background-color: #c4c4c4;
     height: 100vh;
     flex: 2;
 }
