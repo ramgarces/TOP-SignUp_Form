@@ -17,11 +17,12 @@ html {
 
 .page-left {
     background-color: red;
-    height: 100%;
-    flex: auto;
+    height: 100vh;
+    flex: 2;
 }
 
 .page-right {
     background-color: blue;
-    flex: auto;
+    height: 100vh;
+    flex: 4;
 }
