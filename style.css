@@ -15,8 +15,13 @@ html {
     display: flex;
 }
 
+.background-image {
+    position: absolute;
+    height: 100vh;
+    z-index: -1;
+}
+
 .page-left {
-    background-color: red;
     height: 100vh;
     flex: 2;
 }
