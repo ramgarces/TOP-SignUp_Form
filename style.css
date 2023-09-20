@@ -50,3 +50,9 @@ html {
     font-family: 'Croissant One', cursive;
     color: #fefefe;
 }
+
+.logo-image {
+    height: 10rem;
+    width: auto;
+    object-fit: cover;
+}
