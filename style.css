@@ -34,3 +34,19 @@ html {
     height: 100vh;
     flex: 2;
 }
+
+.logo-and-title-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    height: 20vh;
+    top: 100px;
+    background-color: rgba(172, 172, 172, 0.5);
+}
+
+.title-paragraph {
+    font-size: 5rem;
+    font-family: 'Croissant One', cursive;
+    color: #fefefe;
+}
