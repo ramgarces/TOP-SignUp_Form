@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Croissant+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Skranji&display=swap');
 
 * {
     box-sizing: border-box;
@@ -47,7 +47,7 @@ html {
 
 .title-paragraph {
     font-size: 5rem;
-    font-family: 'Croissant One', cursive;
+    font-family: 'Skranji', cursive;
     color: #fefefe;
 }
 
