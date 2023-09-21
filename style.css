@@ -66,3 +66,13 @@ html {
     position: absolute;
     bottom: 1rem;
 }
+
+.photo-credit {
+    color: #fefefe;
+    font-family: sans-serif;
+}
+
+.photo-credit a {
+    color: #fefefe;
+    font-style: italic;
+}
