@@ -27,6 +27,8 @@ html {
 .page-left {
     height: 100vh;
     flex: 1;
+    display: flex;
+    flex-direction: column;
 }
 
 .page-right {
@@ -55,4 +57,12 @@ html {
     height: 10rem;
     width: auto;
     object-fit: cover;
+}
+
+.photo-credit-container {
+    color: #fefefe;
+    align-self: center;
+    display: inline-block;
+    position: absolute;
+    bottom: 1rem;
 }
